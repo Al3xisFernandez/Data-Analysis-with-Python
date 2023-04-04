@@ -1,0 +1,25 @@
+Código,Provincia,región,Área km 2,Área prop.,Área % país,Población,Poblacion.prop.,Poblacion % país,Densidad,Dens.prop.
+CF,Ciudad Autónoma de Buenos Aires,pampeana,202,24,"0,00809",2890151,4,"7,2","14307,68",1
+BA,Provincia de Buenos Aires,pampeana,307571,1,"11,06",15625084,1,"38,95","50,8",3
+CT,Provincia de Catamarca,N.O.A.,102602,11,"3,69",367828,20,"0,92","3,58",20
+CD,Provincia de Córdoba,pampeana,165321,5,"5,94",3308876,2,"8,25","20,01",6
+CR,Provincia de Corrientes,N.E.A.,88199,16,"3,17",992595,11,"2,47","11,25",10
+ER,Provincia de Entre Ríos,pampeana,78781,17,"2,83",1235994,7,"3,08","15,68",7
+FO,Provincia de Formosa,N.E.A.,72066,19,"2,59",530162,17,"1,32","7,35",14
+JY,Provincia de Jujuy,N.O.A.,53219,20,"1,91",673307,14,"1,68","12,65",8
+LP,Provincia de La Pampa,pampeana,143440,8,"5,16",318951,22,"0,8","2,22",23
+LR,Provincia de La Rioja,N.O.A.,89680,14,"3,22",333642,21,"0,83","3,72",19
+MZ,Provincia de Mendoza,cuyana,148827,7,"5,35",1738929,5,"4,33","11,68",9
+MN,Provincia de Misiones,N.E.A.,29801,21,"1,07",1101593,9,"2,75","36,96",4
+RN,Provincia de Río Negro,pampeana,203013,4,"7,3",638645,15,"1,59","3,14",21
+SA,Provincia de Salta,N.O.A.,155488,6,"5,59",1214441,8,"3,03","7,81",12
+SJ,Provincia de San Juan,cuyana,89651,15,"3,22",681055,13,"1,7","7,59",13
+SL,Provincia de San Luis,cuyana,76748,18,"2,76",432310,19,"1,08","5,63",18
+SC,Provincia de Santa Cruz,patagónica,243943,2,"8,77",273964,23,"0,68","1,12",24
+SF,Provincia de Santa Fe,pampeana,133007,10,"4,78",3194537,3,"7,96","24,02",5
+SE,Provincia de Santiago del Estero,N.O.A.,136351,9,"4,9",874006,12,"2,18","6,41",15
+TF,"Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",Antártida,21478,23,"0,8",127205,24,"0,32","5,92",16
+TM,Provincia de Tucumán,N.O.A.,22524,22,"0,81",1448188,6,"3,61","64,29",2
+CC,Provincia del Chaco,N.E.A.,99633,12,"3,58",1055259,10,"2,63","10,59",11
+CH,Provincia del Chubut,patagónica,224686,3,"8,08",618994,18,"1,27","2,26",22
+NQ,Provincia del Neuquén,patagónica,94078,13,"3,38",551266,16,"1,37","5,86",17
